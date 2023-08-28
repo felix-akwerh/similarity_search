@@ -2,6 +2,10 @@
 
 This project contains the files to solve the problem of finding the relatedness between the name of a product and its keyword
 
+![App Version](https://img.shields.io/badge/version-0.0.1-green.svg)
+![Typescript version](https://img.shields.io/badge/typescript-4.7.4-blue.svg)
+![Python version](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -35,8 +39,16 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+<<<<<<< HEAD
+
+
+=======
 
 ## License 
 
 ## Acknowledgements 
 To be discussed soon 
+
+>>>>>>> 2df4e357aacb1faa723fe8fa601b07b9e2557fcd
+
+[def]: https://img.shields.io/badge/express-4.18.1-black
