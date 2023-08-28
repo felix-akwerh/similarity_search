@@ -4,7 +4,7 @@ This project contains the files to solve the problem of finding the relatedness 
 
 ![App Version](https://img.shields.io/badge/version-0.0.1-green.svg)
 ![Typescript version](https://img.shields.io/badge/typescript-4.7.4-blue.svg)
-![Python version](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-v3.11-blue.svg)
 
 ## Table of Contents
 
