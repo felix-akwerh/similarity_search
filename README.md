@@ -22,9 +22,21 @@ Use the following steps to install and run the project:
 4. Configure the settings (if necessary).
 5. Start the application with `npm start` or `python app.py`.
 
+## Usage 
+To be discussed soon 
+
+## Features
+To be discussed soon 
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## License 
+
+## Acknowledgements 
+To be discussed soon 
