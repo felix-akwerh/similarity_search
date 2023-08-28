@@ -39,16 +39,13 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-<<<<<<< HEAD
 
 
-=======
+
 
 ## License 
 
 ## Acknowledgements 
 To be discussed soon 
 
->>>>>>> 2df4e357aacb1faa723fe8fa601b07b9e2557fcd
 
-[def]: https://img.shields.io/badge/express-4.18.1-black
