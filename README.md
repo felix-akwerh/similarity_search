@@ -1,10 +1,11 @@
 ## similarity_search
 
-This project contains the files to solve the problem of finding the relatedness between the name of a product and its keyword
-
 ![App Version](https://img.shields.io/badge/App_version-0.0.1-green.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![Python](https://img.shields.io/badge/python-v3.11-blue.svg)
+
+
+This project contains the files to solve the problem of finding the relatedness between the name of a product and its keyword
 
 ## Table of Contents
 
