@@ -27,10 +27,10 @@ Use the following steps to install and run the project:
 5. Start the application with `npm start` or `python app.py`.
 
 ## Usage 
-To be discussed soon 
+> To be discussed soon 
 
 ## Features
-To be discussed soon 
+> To be discussed soon 
 
 
 ##  Contributing
@@ -45,6 +45,6 @@ Please make sure to update tests as appropriate.
 ##  License
 
 ## Acknowledgements 
-To be discussed soon 
+> To be discussed soon 
 
 
